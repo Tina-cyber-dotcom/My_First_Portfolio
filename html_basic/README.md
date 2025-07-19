@@ -1,6 +1,6 @@
 # My First Portfolio
 
-This project is part of my journey to learn web development from scratch.  
+This is part of my journey to learn web development from scratch.  
 It contains a basic HTML file that is W3C-compliant and has no external libraries.
 
 ## Project Structure
